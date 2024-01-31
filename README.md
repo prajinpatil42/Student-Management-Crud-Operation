@@ -9,4 +9,3 @@
 
 ![logo](https://github.com/prajinpatil42/Student-Management-Crud-Operation/blob/main/Images/5.png)
 
-![logo](https://github.com/prajinpatil42/Student-Management-Crud-Operation/blob/main/Images/6.png)
